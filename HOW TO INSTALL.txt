@@ -1,0 +1,26 @@
+ClipCleaner 1.0.0 - HOW TO INSTALL
+==================================
+
+ClipCleaner is a mod for ScamLoader. ScamLoader is NOT included in this zip.
+Install ScamLoader first: if the game's main menu shows a MODS button, you have it.
+
+1. Open the game folder:
+   In Steam, right-click "Scam With Your Friends" > Manage > Browse local files.
+
+2. Open the ScamLoader folder, then the Mods folder inside it.
+
+3. Copy the ClipCleaner folder from this zip into that Mods folder.
+   It should end up as:
+   <game folder>\ScamLoader\Mods\ClipCleaner\ClipCleaner.dll
+
+4. Start the game, click MODS, and pick a rule under CLIPCLEANER.
+   It starts Off, so nothing is deleted until you choose.
+
+Uninstall:
+   Delete the folder  <game folder>\ScamLoader\Mods\ClipCleaner\
+
+Full details: ClipCleaner\README.md
+
+License:
+   Personal use only. Please don't re-upload these files or send them to
+   others - share the official download page instead. See LICENSE.txt.
