@@ -8,7 +8,7 @@ Scam With Your Friends records your calls (your voice included) to `Documents\Sc
 
 **[Download ClipCleaner 1.0.0](https://github.com/keiranross/ClipCleaner/releases/download/v1.0.0/ClipCleaner-1.0.0.zip)**, or see [Releases](https://github.com/keiranross/ClipCleaner/releases).
 
-SHA-256 of `ClipCleaner-1.0.0.zip`: `deea7fbb2fafdd49ef17ed46d358188bf8b9ea81a6f9eb57d5187107cdcae182`
+SHA-256 of `ClipCleaner-1.0.0.zip`: `9425eda418a4f51b2e844bb09d1920886d3a6877611b38e9f21c942a7d564c02`
 
 ## Rules
 
