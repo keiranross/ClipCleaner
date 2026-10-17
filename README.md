@@ -36,4 +36,4 @@ Delete the `ScamLoader\Mods\ClipCleaner\` folder.
 
 ## License
 
-Copyright (c) 2026 KeiranR. All rights reserved. Personal use only: **please don't re-upload these files or send them to others** — link to this page instead. See [LICENSE](LICENSE).
+Copyright (c) 2026 KeiranR. All rights reserved. Personal use only: **please don't re-upload these files or send them to others**. Link to this page instead. See [LICENSE](LICENSE).
